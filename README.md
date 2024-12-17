@@ -6,9 +6,28 @@
 Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets réalisés à l'école 42. 
 
 ## 🔧 Projets
+<a href="https://github.com/votre-utilisateur/libft_bonus">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" alt="Libft Bonus" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/ft_printf">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" alt="ft_printf" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/born2beroot">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp" alt="Born2beroot" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/get_next_line">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp" alt="Get Next Line" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/minitalk">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp" alt="Minitalk" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/push_swap">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" alt="Push Swap" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/fract-ol">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol.webp" alt="Fract-ol" style="display: inline-block;"/>
+</a>
 
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"/>
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp"/>
 
 ---
 
