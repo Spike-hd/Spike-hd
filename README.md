@@ -21,7 +21,7 @@ Voici un aperçu des projets que j'ai réalisés :
 
 ### 3. [get_next_line](https://github.com/Spike-hd/get_next_line)  
 **Description :** Fonction permettant de lire l’intégralité du fichier texte référencé par le descripteur de fichier, une ligne à la fois.  
-**Objectif :** Travailler sur la gestion des fichiers et l'optimisation des lectures.  
+**Objectif :** Travailler sur la gestion des fichiers.
 **Langage :** C
 
 ### 4. [minitalk](https://github.com/Spike-hd/minitalk)  
@@ -31,12 +31,12 @@ Voici un aperçu des projets que j'ai réalisés :
 
 ### 5. [push_swap](https://github.com/Spike-hd/push_swap)  
 **Description :** Implémentation d'un algorithme de tri devant respecter plusieurs conditions.  
-**Objectif :** Optimiser un algorithme de tri avec des contraintes spécifiques.  
+**Objectif :** Optimiser un algorithme de tri avec des contraintes spécifiques. Apprentissage des notions de complexité en algorithmie.
 **Langage :** C, Algorithmie
 
 ### 6. [fract-ol](https://github.com/Spike-hd/fract-ol)  
 **Description :** Réalisation des ensembles de Mandelbrot et Julia.  
-**Objectif :** Découvrir les fractales et apprendre la gestion des graphiques avec la bibliothèque MiniLibX.  
+**Objectif :** Découvrir les fractales et apprendre la gestion graphique avec la bibliothèque MiniLibX.
 **Langage :** C, Graphismes, MiniLibX
 
 ---
