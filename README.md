@@ -30,6 +30,9 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
 <a href="https://github.com/Spike-hd/philosophers">
   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus.webp" alt="Fract-ol" style="display: inline-block;"/>
 </a>
+<a href="https://github.com/Spike-hd/minishell">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" alt="Fract-ol" style="display: inline-block;"/>
+</a>
 
 
 ---
