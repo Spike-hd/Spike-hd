@@ -34,7 +34,7 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" alt="Fract-ol" style="display: inline-block;"/>
 </a>
 <a href="https://github.com/Spike-hd/cub_3D">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" alt="Cub_3D" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp" alt="Cub_3D" style="display: inline-block; margin-right: 20px;"/>
 </a>
 
 
