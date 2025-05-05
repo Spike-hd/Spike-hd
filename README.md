@@ -7,34 +7,40 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
 
 ## 🔧 Projets
 <a href="https://github.com/Spike-hd/libft">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" alt="Libft Bonus" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/libft_bonus.svg" alt="Libft Bonus" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/ft_printf">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" alt="ft_printf" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/ft_printf.svg" alt="ft_printf" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/born2beroot">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp" alt="Born2beroot" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/born2beroot.svg" alt="Born2beroot" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/get_next_line">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp" alt="Get Next Line" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/get_next_line_bonus.svg" alt="Get Next Line" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/minitalk">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp" alt="Minitalk" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/minitalk_bonus.svg" alt="Minitalk" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/push_swap">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" alt="Push Swap" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/push_swap.svg" alt="Push Swap" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/fract-ol">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol.webp" alt="Fract-ol" style="display: inline-block;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/fractol_bonus.svg" alt="Fract-ol" style="display: inline-block;"/>
 </a>
 <a href="https://github.com/Spike-hd/philosophers">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus.webp" alt="Fract-ol" style="display: inline-block;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/philosophers_bonus.svg" alt="Philosophers" style="display: inline-block;"/>
 </a>
 <a href="https://github.com/Spike-hd/minishell">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" alt="Fract-ol" style="display: inline-block;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/minishell.svg" alt="Fract-ol" style="display: inline-block;"/>
 </a>
 <a href="https://github.com/Spike-hd/cub_3D">
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp" alt="Cub_3D" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/cub3d_bonus.svg" alt="Cub_3D" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/netpractice">
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/netpractice.svg" alt="Netpractice" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/Cpp">
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/cpp_bonus.svg" alt="Cpp" style="display: inline-block; margin-right: 20px;"/>
 </a>
 
 
