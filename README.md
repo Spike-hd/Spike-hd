@@ -16,7 +16,7 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
   <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/born2beroot.svg" alt="Born2beroot" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/get_next_line">
-  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/get_next_line.svg" alt="Get Next Line" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/get_next_line_bonus.svg" alt="Get Next Line" style="display: inline-block; margin-right: 20px;"/>
 </a>
 <a href="https://github.com/Spike-hd/minitalk">
   <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/minitalk_bonus.svg" alt="Minitalk" style="display: inline-block; margin-right: 20px;"/>
