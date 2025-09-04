@@ -47,6 +47,9 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
 </a>
 <a href="https://github.com/Spike-hd/webserv">
   <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/webserv_bonus.svg" alt="Cpp" style="display: inline-block; margin-right: 20px;"/>
+</a>
+<a href="https://github.com/Spike-hd/42-ft_transcendence">
+  <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/ft_transcendence_bonus.svg" alt="Cpp" style="display: inline-block; margin-right: 20px;"/>
 
 ---
 
