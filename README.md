@@ -51,10 +51,5 @@ Bienvenue sur mon dépôt GitHub ! Vous trouverez ici la liste de mes projets r�
 <a href="https://github.com/Spike-hd/42-ft_transcendence">
   <img src="https://github.com/mpeyre-s/42_project_badges/blob/main/badges/ft_transcendence_bonus.svg" alt="Cpp" style="display: inline-block; margin-right: 20px;"/>
 
----
-
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Spike-hd&show_icons=true&theme=radical)
 
 
